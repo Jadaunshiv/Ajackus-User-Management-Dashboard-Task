@@ -34,7 +34,7 @@ API for demonstrating backend interactions. <br>
 <h3>Setup Instructions</h3>
 <ol>
 <li>Clone the repository:
-<code>git clone <repository-url></code><br>
+<code>git clone https://github.com/Jadaunshiv/Ajackus-User-Management-Dashboard-Task.git</code><br>
 <code>cd user-management-dashboard</code>
 </li>
 <li>No build process or dependencies are required as this is a vanilla JavaScript project.</li>
